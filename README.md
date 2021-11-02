@@ -1,4 +1,4 @@
-# Introduction to p5.js
+# Creative Coding with p5.js
 
 Material and code for Introduction to p5.js workshop taught by [Jiwon Shin](http://jiwonshin.com/).
 
