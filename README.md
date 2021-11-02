@@ -2,7 +2,7 @@
 
 Material and code for Introduction to p5.js workshop taught by [Jiwon Shin](http://jiwonshin.com/).
 
-[Link to slides](https://docs.google.com/presentation/d/1lHoEvaCfnteg35IjRnia_hmycqrHGkDd3knotQWJYiI/edit?usp=sharing)
+[Link to slides](creative-coding-slides.pdf)
 
 
 
